@@ -1,4 +1,3 @@
-CabecerA linea se agrega en el master
 Esta es una accion de git
 Esta es la linea agregada en branch cabecera
 Ajuste desde web
